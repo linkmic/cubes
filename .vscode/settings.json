@@ -1,0 +1,11 @@
+{
+    "python.venvPath": "/home/michael/Development/venv/",
+    "python.linting.pylintEnabled": false,
+    "python.linting.pep8Enabled": false,
+    "python.linting.flake8Enabled": true,
+
+    "editor.rulers" : [80 , 100],
+    "python.pythonPath": "/home/michael/Development/venv/cubes/bin/python2.7",
+    "python.linting.pylintPath": "/home/michael/Development/venv/cubes/bin/pylint",
+    "python.linting.flake8Path": "/home/michael/Development/venv/cubes/bin/flake8"
+}
